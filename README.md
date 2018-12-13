@@ -50,7 +50,7 @@ This project is created under Udacity's Frontend Nanodegree Programme.
 
 > Index page
 >
-> ![Index Page](Screenshots\Front-Page.png)
+> ![Index Page](https://github.com/siddharth-pand8y/MyBookReads/raw/master/Screenshots/Front-Page.png)
 
 > Search Page
 >
