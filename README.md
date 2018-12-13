@@ -54,7 +54,7 @@ This project is created under Udacity's Frontend Nanodegree Programme.
 
 > Search Page
 >
-> ![](E:\Coding\Udacity\FrontEnd\myreads-siddharth\Screenshots\Search-Page.png)
+> ![](https://github.com/siddharth-pand8y/MyBookReads/raw/master/Screenshots/Search-Page.png)
 
 ## Backend Server
 
