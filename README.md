@@ -6,7 +6,7 @@ The application is built using React and the content is fetched via a backend se
 
 This project is created under Udacity's Frontend Nanodegree Programme.
 
-The live version is available at http://mybookreads.siddharth-pandey.com:8080
+The live version is available at http://mybookreads.siddharth-pandey.com
 
 ## Prerequisites
 
